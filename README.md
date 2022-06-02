@@ -1,6 +1,6 @@
 # BukkitIntegrationPlugin
 Плагин интеграции Bukkit с личным кабинетом SimpleCabinet  
-Для работы нового API пинга сервера праивльно укажите serverName в ServerWrapper(необязательно)  
+Для работы нового API пинга сервера правильно укажите serverName в ServerWrapper(не обязательно)  
 **Привязка с помощью ServerWrapper обязательна**
 ## Формат предметов
 **Для выдачи предметов с NBT требуется плагин PowerNBT**
